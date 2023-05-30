@@ -1,0 +1,16 @@
+
+# Singleton
+
+    Restricts instantiation of a class to a single object. The Single ton pa t tern can be 
+implemented by creating a class with a method that creates a new instance o f the class i f 
+one doesn't exist . I f an instance already existing , i t simply re turns a reference to tha t 
+instance .
+There must be exactly one instance o f a class , and i t mus t be accessible to clients f rom a 
+common access point.
+
+# Decorator pattern
+    Decorators are functions that can modify or enhance the behavior of classes,
+ methods, properties, or parameters. They are applied using the @decoratorName syntax above 
+ the targeted element. Decorators are executed at runtime, allowing for dynamic customization. 
+ Multiple decorators can be applied to the same element, executed in the order specified. 
+ They can also be used on constructors, enabling modification during object creation
