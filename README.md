@@ -11,6 +11,6 @@
     =>  npm install @angular/cli -g
     =>  ng new <project-name> -s -t –S
     =>  ng serve o  // or ng s -o
-    =>  ng g c <child-name>    // to create a child 
+    =>  ng g c <child-name>    / or ng generate component <child-name>     // to create a child 
 
 # 
