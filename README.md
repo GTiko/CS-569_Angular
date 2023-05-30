@@ -1,9 +1,15 @@
 # CS-569_Angular
+
+# Typescript
+
     =>  npm insatll rxjs
     =>  npm install ts-node
     =>  npm install typescript
-# Angular
     
+# Create Angular Project
+
     =>  npm install @angular/cli -g
-    =>  ng new new-app -s -t –S
-    =>  ng serve o
+    =>  ng new <project-name> -s -t –S
+    =>  ng serve o  // or ng s -o
+
+#
