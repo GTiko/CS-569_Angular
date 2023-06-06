@@ -13,6 +13,8 @@
     =>  ng serve o  // or ng s -o
     =>  ng g c <child-name>    / or ng generate component <child-name>     // to create a child 
     
-    =>  ng g s serviceName      // to create Injection 
+    =>  ng g d <directiveName>      // to create directive
+    =>  ng g p <pipeName>       // to create custome pipe
+    =>  ng g s <serviceName>      // to create Injection 
 
 # 
